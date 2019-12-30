@@ -24,7 +24,7 @@ The easiest to get started with the right environment is to clone the Udacity fu
 - If you want to test out the reporting tool rather than make one, clone my log-analysis repo or download the dbscript.py file and place it in the /vagrant directory
 - Enter 'python3 dbscript.py' in your terminal to run it
 
-##Ackowledgement:
+## Ackowledgement:
 
 I'd like to acknowledge Udacity as most of the processes I followed are based on the lectures. I also made use of Psycopg and PostgreSQl documentations and some stack overflow searches when stuck.   
 
