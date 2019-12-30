@@ -38,7 +38,7 @@ error_percent = """
                 """
 
 
-# Query data from the database, open and close the connection
+# Establish query connection with database
 def query_db(query_request):
     conn = psycopg2.connect(database="news")
     cursor = conn.cursor()
@@ -50,7 +50,7 @@ def query_db(query_request):
 
 # Writing the report
 
-# Print a title of the report
+# Print report's title
 def print_title(title):
     print ("\n\t\t" + title + "\n")
 
