@@ -1,0 +1,17 @@
+
+[96m[1m[4m                  *** TOP ARTICLES ***                 [0m
+
+[1m   Candidate is jerk, alleges rival :  [0m 338647 views
+[1m   Bears love berries, alleges bear :  [0m 253801 views
+[1m   Bad things gone, say good people :  [0m 170098 views
+
+[92m[1m[4m                  *** TOP AUTHORS ***                  [0m
+
+[1m   Ursula La Multa :  [0m 507594 views
+[1m   Rudolf von Treppenwitz :  [0m 423457 views
+[1m   Anonymous Contributor :  [0m 170098 views
+[1m   Markoff Chaney :  [0m 84557 views
+
+[91m[1m[4m                *** HIGH ERROR DAYS ***                [0m
+
+[1m   Jul 17, 2016 :  [0m 2.26 %
