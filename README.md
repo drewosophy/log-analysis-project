@@ -7,8 +7,9 @@ The Log Analysis Project is a python tool created to query a database called new
 
 ## Tools
 Excluding minor modules, the key tools used for this project include the following:
-- Virtual Box
-- Vagrant
+- Virtual Box: https://www.virtualbox.org/wiki/Downloads
+- Vagrant: https://www.vagrantup.com/downloads.html 
+- Vagrant File by Udacity: https://github.com/udacity/fullstack-nanodegree-vm/blob/master/vagrant/Vagrantfile
 - PostgreSQL
 - Python3
 - Visual Studio Code
