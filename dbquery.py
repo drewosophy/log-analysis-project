@@ -36,7 +36,7 @@ def top_authors():
     query = """
                 select authors.name, count(path) as page_views
                 from log, articles, authors
-                where log.path like '%' || articles.slug and authors.id = articles.author
+                where log.path = '/article/' || articles.slug and authors.id = articles.author
                 group by name
                 order by page_views desc;
                 """
