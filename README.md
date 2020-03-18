@@ -23,7 +23,7 @@ The easiest to get started with the right environment is to clone the Udacity fu
 - Enter 'vagrant ssh' to ssh into your linux instance
 - Enter 'psql -d news -f newsdata.sql' to connect with the database
 - If you want to test out the reporting tool rather than make one, clone my log-analysis repo or download the dbscript.py file and place it in the /vagrant directory
-- Enter 'python3 dbscript.py' in your terminal to run it
+- Enter 'python3 dbquery.py' in your terminal to run it
 
 ## Ackowledgement:
 
